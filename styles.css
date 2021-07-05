@@ -1,0 +1,37 @@
+body {
+    background-image: url("deximg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 80px;
+}
+
+button {
+	margin-left: 20px;
+}
+
+.bttn {
+	position: relative;
+	left: -20px;
+}
+
+#add {
+	width: 600px;
+}
+
+#searchWord {
+	width: 600px;
+}
+
+#searchW {
+	visibility: hidden;
+}
+
+#message {
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
+}
